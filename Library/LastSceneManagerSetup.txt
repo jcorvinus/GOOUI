@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Gooui/testScene.unity
+- path: Assets/Gooui/LeapTestScene.unity
   isLoaded: 1
   isActive: 1

@@ -199,10 +199,10 @@ public class PressButton : MonoBehaviour {
     // make haptics happen!
     if( enteredObject != null ){
 
-      SteamVR_TrackedObject tObj = enteredObject.GetComponent<SteamVR_TrackedObject>();
+      /*SteamVR_TrackedObject tObj = enteredObject.GetComponent<SteamVR_TrackedObject>();
       var device = SteamVR_Controller.Input((int)tObj.index);
       var v = triggerVal * triggerVal * triggerVal * 200;
-      device.TriggerHapticPulse((ushort)v);
+      device.TriggerHapticPulse((ushort)v);*/
     
     }
 
