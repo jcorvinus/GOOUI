@@ -1,3 +1,14 @@
+JCorvinus here. I've updated Cabibbo's old GooUI project to work with a newer version of Unity, and Leap Motion hand tracking. I remembered how cool this project was and wanted to show it to some friends, since it makes for cool inspiration, but it needed updating.
+
+After you clone this repository, you'll want to open it in Unity (I'm on 2018.4 something,) then download:
+
+https://developer.leapmotion.com/releases/core-assets-440
+
+import the unitypackage and everything should compile properly.
+
+old readme below:
+------------------------------------------
+
 Thanks for checking this out! 
 Hopefully it is all made pretty apparent by checking out the test scene / package / prefabs. If something doesn't make sense please let me know at hello@cabbi.bo
 
